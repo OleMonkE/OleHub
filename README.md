@@ -10,3 +10,10 @@
 
 # Notice 1 :
 **Development Has Been Slowed Down So Updates may not Come frequently**
+
+
+# ***Current Update Log***
+# V0.1.2c
+- More Games such as Pls Donate And Randomizer.
+- Some enhancements to the Key System.
+- Some bug fixes in the LocalPlayer Tab.
