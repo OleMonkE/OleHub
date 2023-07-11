@@ -8,12 +8,14 @@
 - The Key System is Only Available for some time Whether its gonna be added or not has not been specified.
 - For A Whitelist In the Hub, Just Offline Donate OleMnke 5 Robux And you will be Added to the Whitelist of the key system.
 
-# Notice 1 :
-**Development Has Been Slowed Down So Updates may not Come frequently**
-
 
 # ***Current Update Log***
 # V0.1.2c
 - More Games such as Pls Donate And Randomizer.
 - Some enhancements to the Key System.
 - Some bug fixes in the LocalPlayer Tab.
+
+  # Notice 1 :
+**Development Has Been Slowed Down So Updates may not Come frequently**
+
+
