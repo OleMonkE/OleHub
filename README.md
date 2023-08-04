@@ -15,7 +15,7 @@
 - Some enhancements to the Key System.
 - Some bug fixes in the LocalPlayer Tab.
 
-# Notice 1 :
-**Development Has Been Slowed Down So Updates may not Come frequently**
+# Important :
+**Im Working on Porting the Hub To a Different Library as Orion is not as Up to date**
 
 
