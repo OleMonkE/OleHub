@@ -10,6 +10,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OleMonkE/OleHub/main/
 - For A Whitelist In the Hub, Just Offline Donate OleMnke 5 Robux And you will be Added to the Whitelist of the key system.
 - Update Logs have been Moved to the Hub Only
 
+# Current Version:
+- **V0.1.3**
 # Important :
 **Proggress on Porting the Hub into a new Library has been good so far. But it has been delayed As i want to release it in 0**
 
