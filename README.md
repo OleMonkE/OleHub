@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/OleMonkE/OleHub/main/
 - Update Logs have been Moved to the Hub Only
 
 # Current Version:
-- **V0.1.3**
+- **V2**
 # Important :
 - **Proggress on Porting the Hub into a new Library has been good so far. But it has been delayed As i want to release it in 0.2**
 
